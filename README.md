@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# EY Adobe Edge Deliver Services Test Project
+POC
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--eyeds--shamrox.hlx.page/
+- Live: https://main--eyeds--shamrox.hlx.live/
 
 ## Installation
 
